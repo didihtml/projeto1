@@ -1,7 +1,7 @@
 <h1 align="center"> DidiLinks</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pelo Didi
+Programa exclusivo e gratuito, promovido pelo Didi.
 </p>
 
 <p align="center">
